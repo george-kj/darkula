@@ -1,6 +1,6 @@
 A dark scheme for [Sublime Text](https://www.sublimetext.com/) inspired by the IntelliJ Darcula theme.
 
-![Screen shot](https://github.com/george-kj/darkula/blob/master/darkula.png)
+![Screen shot](https://github.com/george-kj/darkula/blob/master/dracula.png)
 
 ## Install in Sublime Text
 
