@@ -10,9 +10,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#080808</string>
+				<string>#101010</string>
 				<key>caret</key>
-				<string>#ffffff</string>
+				<string>#d4d4d4</string>
 				<key>foreground</key>
 				<string>#A9B7C6</string>
 				<key>invisibles</key>
@@ -24,7 +24,7 @@
 				<key>findHighlight</key>
 				<string>#214283</string>
 				<key>findHighlightForeground</key>
-				<string>#FFFFFF</string>
+				<string>#d4d4d4</string>
 				<key>selectionBorder</key>
 				<string>#214283</string>
 				<key>guide</key>
